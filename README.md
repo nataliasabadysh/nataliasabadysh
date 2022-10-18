@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Backend, Nestjs and Web3 
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me 
-https://www.facebook.com/nataliasabadysh
-https://www.linkedin.com/in/natalia-sabadysh/
+* FB: https://www.facebook.com/nataliasabadysh
+* Linkedin: https://www.linkedin.com/in/natalia-sabadysh/
 
 
 <!---
