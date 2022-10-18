@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nataliasabadysh
-- 👀 I’m interested in Web Developing 
+- 👀 I'm interested in Web Development
 - 🌱 I’m currently learning Backend, Nestjs and Web3 
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me 
