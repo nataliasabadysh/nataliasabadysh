@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nataliasabadysh
+- 👋 Hi, I’m @nataliasabadysh #StandWithUkraine 🇺🇦
 - 👀 I'm interested in Web Development
 - 🌱 I’m currently learning Backend, Nestjs and Web3 
 - 💞️ I’m looking to collaborate on Web3
