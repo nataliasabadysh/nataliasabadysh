@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataliasabadysh #StandWithUkraine 🇺🇦
 - 👀 I'm interested in Web Development
-- 🌱 I’m currently learning Backend, Nestjs, and Python 
+- 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me 
 * FB: https://www.facebook.com/nataliasabadysh
