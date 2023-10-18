@@ -5,9 +5,6 @@ I am a passionate developer, committed to writing flawless code and delivering e
 - 👀 I'm interested in Web Development
 - 🌱 I’m currently Data Science with Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me 
-* FB: https://www.facebook.com/nataliasabadysh
-* Linkedin: https://www.linkedin.com/in/natalia-sabadysh/
 
 
 <!---
