@@ -3,7 +3,7 @@
 I am a passionate developer, committed to writing flawless code and delivering exceptional web apps with cutting-edge technology.
 
 - 👀 I'm interested in Web Development
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently Data Science with Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me 
 * FB: https://www.facebook.com/nataliasabadysh
